@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-    id="com.azfx.plugin.ios.voipmode"
-    version="1.0.0">
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="cordova-plugin-iosvoip-mode"
+        version="2.0.0">
+
 
     <name>Cordova iOS VoIP mode</name>
 
